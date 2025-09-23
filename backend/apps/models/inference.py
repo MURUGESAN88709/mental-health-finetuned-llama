@@ -14,8 +14,6 @@ base_model = AutoModelForCausalLM.from_pretrained(
 
 model = PeftModel.from_pretrained(base_model, settings.lora_repo).to(settings.device)
 
-model = None
-tokenizer = None
 def generate_text(prompt: str, max_new_tokens: int = 150, temperature: float = 0.7, top_p: float = 0.9) -> str:
     try:
         inputs = tokenizer(prompt, return_tensors="pt").to(settings.device)
