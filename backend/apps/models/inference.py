@@ -5,6 +5,7 @@ from ..core.config import settings
 
 
 tokenizer = AutoTokenizer.from_pretrained(settings.base_repo)
+
 base_model = AutoModelForCausalLM.from_pretrained(
         settings.base_repo,
         device_map="auto",
@@ -14,7 +15,7 @@ base_model = AutoModelForCausalLM.from_pretrained(
 
 model = PeftModel.from_pretrained(base_model, settings.lora_repo).to(settings.device)
 
-def generate_text(prompt: str, max_new_tokens: int = 150, temperature: float = 0.7, top_p: float = 0.9) -> str:
+def generate_text(prompt: str, max_new_tokens: int = 200, temperature: float = 0.5) -> str:
     try:
         inputs = tokenizer(prompt, return_tensors="pt").to(settings.device)
         with torch.no_grad():
@@ -22,7 +23,6 @@ def generate_text(prompt: str, max_new_tokens: int = 150, temperature: float = 0
                 **inputs,
                 max_new_tokens=max_new_tokens,
                 temperature=temperature,
-                top_p=top_p,
                 do_sample=True,
                 pad_token_id=tokenizer.eos_token_id,
                 eos_token_id=tokenizer.eos_token_id
